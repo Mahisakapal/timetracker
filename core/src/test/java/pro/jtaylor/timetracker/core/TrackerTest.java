@@ -11,6 +11,7 @@ import pro.jtaylor.timetracker.core.dao.TimeEntry;
 
 /**
  * Created by Jason on 6/19/2015.
+ * changes completed
  */
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(classes = TrackerCoreConfig.class)
