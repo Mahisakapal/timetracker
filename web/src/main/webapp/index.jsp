@@ -11,7 +11,7 @@
     <title>DevOpsTraining</title>
 </head>
 <body>
-  <h1>Tomcat Deployment</h1>
+  <h1>Jenkins Testing</h1>
   <p>
     End of jenkins topic.
   </p>
