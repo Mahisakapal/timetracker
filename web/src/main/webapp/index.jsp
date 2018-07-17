@@ -8,10 +8,10 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>DevOpsTraining</title>
+    <title>Jenkins Deployment</title>
 </head>
 <body>
-  <h1>Jenkins Testing</h1>
+  <h1>Jenkins C/CD Implementation</h1>
   <p>
     End of jenkins topic.
   </p>
