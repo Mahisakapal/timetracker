@@ -1,5 +1,5 @@
 package pro.jtaylor.timetracker.core;
-
+// Adding some changes to trigger the job
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import pro.jtaylor.timetracker.core.dao.TimeEntry;
