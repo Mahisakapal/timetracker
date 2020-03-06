@@ -14,7 +14,7 @@
   <h1>Automated deployments with Jenkins</h1>
   <p>
     End of jenkins topic.
-    12/04/2019
+    03/05/2020
   </p>
 </body>
 </html>
